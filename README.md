@@ -20,10 +20,17 @@ headless mode: npx cypress run
 Steps:
 
 1.Open https://www.booking.com/
+
 2.Fill in "Where are you going?" filed "Dilijan"
+
 3.Select date
+
 4.Increase number of adults
+
 5.Click on the "Search" button
+
 6.Check all result items contain "Dilijan"
+
 7.Filter results by "Star Rating" (4 stars)
+
 8.Check result list have items only with 4 stars
